@@ -1,6 +1,6 @@
 Package: ecostatscale
 Title: Statistical Scaling Functions for Ecological Systems
-Version: 1.0
+Version: 1.1
 Authors@R: c(person("Adam", "Clark", role = c("aut", "cre"),
 					email = c("adam.tclark@gmail.com"),
                     comment = c(ORCID = "0000-0002-8843-3278")))
@@ -8,11 +8,11 @@ Description: Implementation of the scaling functions presented in "General stati
 Imports: mvtnorm, stats, graphics, deSolve
 License: GPL-3
 Encoding: UTF-8
-Date: 2021-05-05
-RoxygenNote: 7.1.1
+Date: 2023-10-22
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2021-05-05 10:26:13 UTC; adamt
 Author: Adam Clark [aut, cre] (<https://orcid.org/0000-0002-8843-3278>)
 Maintainer: Adam Clark <adam.tclark@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-05-06 08:20:09 UTC
+Packaged: 2023-10-22 17:33:21 UTC; aclark
+Date/Publication: 2023-10-22 17:50:02 UTC

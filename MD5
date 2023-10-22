@@ -1,11 +1,11 @@
-619c16974091cffbeca3ab3f32259418 *DESCRIPTION
+1a45ce680903492a738e33aef3565de0 *DESCRIPTION
 5f498e33b5c8c577606bd3b35bb99e2d *NAMESPACE
 64dabe26d6c460f8a432ccb3f5bfe063 *R/ecostatscale.R
-26e26d6fd1d6f61e40a62ff71a25fb31 *R/ecostatscale_man.R
+931e625e962475ff3f8e77ea5d8e5d74 *R/ecostatscale_man.R
 2f71df8c619246dd8360f17c56fac6ea *man/df0.Rd
 ed843018d4463b3642b013744248fe55 *man/df_col.Rd
 a3f981f33a1c7de24ba98795a622d55d *man/df_col_loss.Rd
-c7fab1de529576bc7c04a682ae08b593 *man/ecostatscale.Rd
+88a3bcba413513abee2ef47e6d57a7b1 *man/ecostatscale.Rd
 606fa73896be2e1357a93b578237edc5 *man/res_scale.Rd
 72fa516493ef63028647f3c639796aad *man/sd_scale.Rd
 9f72c3427a0a685972de5f61156c6961 *man/symdyn.Rd
